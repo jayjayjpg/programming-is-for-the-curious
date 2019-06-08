@@ -1,6 +1,6 @@
 ---
 notes: |
-  ...
+  On the one hand I learned how to show off things that I built on a website. It was so visual and pretty fun and I learned a lot that day we had an intro into HTML. But on the other hand....(what I learned about the other programming language was different.)
 ---
 
 ## My first introduction to Programming

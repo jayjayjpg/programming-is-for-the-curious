@@ -1,6 +1,6 @@
 ---
 notes: |
-  ...
+  ...HTML which is also something you might hear a bit about today. And another programming language called Perl. If you don't know it, that's no problem for the sake of the story. In fact, you might not even hear about it ever again after this talk, because there are so many different programming languages and technologies out there and it also won't be part of this workshop. What's relevant for the story though is that I had mixed feelings about my introduction to programming back then. Pretty mixed feelings.
 ---
 
 ## My first introduction to Programming

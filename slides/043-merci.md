@@ -3,17 +3,7 @@ notes: |
   Thank you!
 ---
 
-# Thank You ✨  <!-- .element: style="color: #fff;" -->
-
-<div class="block clearfix block--long" style="font-size: 20px; width: 70%;">
-  <strong>A special thank you goes to</strong>
-  <ul>
-    <li>✨ Guy Hasson from <a href="https://twitter.com/ComicsEmpower">Comics Empower</a> ✨</li>
-    <li>✨ <a href="https://twitter.com/LeonieWatson">Léonie Watson</a>, W3C Web Platform WG co-chair ✨</li>
-    <li>✨ <a href="https://twitter.com/kastwey">Juanjo Montiel</a>, Accessibility Specialist ✨</li>
-    <li>✨ <a href="https://twitter.com/melaniersumner">Melanie Sumner</a>, A11y Advocate and Ember Core Team member ✨</li>
-  </ul>
-</div>
+# Stay Curious ✨  <!-- .element: style="color: #fff;" -->
 
 <footer class="clearfix bottom title-footer">
   <div class="right bottom block block--medium">

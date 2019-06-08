@@ -1,6 +1,6 @@
 ---
 notes: |
-  I always loved comics, back then you also read comics, didn't you?
+  Hi, I'm Jessica! And I'm a programmer. I even make my living working as a programmer right now. This wasn't always like this. I used to go uni to become...
 ---
 
 Hey there! <!-- .element: class="fragment fade-up" -->

@@ -1,6 +1,6 @@
 ---
 notes: |
-  Title Slide: The Untapped Potential of Web Comics
+  T...that programming isn't really something for me after all.
 ---
 
 # 😔 <!-- .element: class="fragment fade-up -->

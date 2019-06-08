@@ -1,6 +1,6 @@
 ---
 notes: |
-  ...
+  ...there were so many confusing terms: arrays, hashes, scalars ARGV,....it didn't understand what this all meant and ended up really confused. The material we went through during this course was a lot to take in and the added time pressure as well as the prospect of having to complete the task to get the required credits for finishing my degree didn't help either. I felt really discouraged. And I was thinking to myself. Well, that was interesting, but the fact that I didn't understand all these things shows....
 ---
 
 ## My first introduction to Programming
