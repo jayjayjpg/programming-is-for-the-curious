@@ -13,10 +13,12 @@ $accent: #efccef;
 $counter-accent: #4444aa;
 $grey: #dadada;
 $old-grey: #F6F4EC;
+$blanche: #FFEED6;
+$old-blanche: #F9DAA7;
 
 body {
-  background-image: linear-gradient(to bottom, $grey, $old-grey 60%);
-  background-color: $grey;
+  background-image: linear-gradient(to bottom, $blanche, $old-blanche 60%);
+  background-color: $blanche;
 }
 
 
@@ -235,9 +237,35 @@ body {
 }
 
 .reveal h1 {
-  font-size: $fs-large;
+  font-size: $fs-x-large;
 }
 
 .reveal .controls button {
   color: $accent !important;
+}
+
+
+.reveal section {
+  .round-portrait {
+    overflow: hidden;
+    width: 4em;
+    height: auto;
+    display: inline-block;
+    position: relative;
+    border-radius: 10px;
+
+    &:before {
+      border-radius: 50%;
+      width: 3.8em;
+      overflow: hidden;
+      border: 2px solid #333;
+      height: 3.8em;
+      content: "";
+      top: 0;
+      left: 0;
+      position: absolute;
+      display: block;
+      background-color: rgba(44,44,44,0.7);
+    }
+  }
 }

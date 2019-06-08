@@ -1,10 +1,10 @@
 ---
 notes: |
-  Title Slide: Comics for Literally Everyone
+  Title Slide: Programming Is for The Curious
 ---
 
 <div class="clearfix block block--long">
-  <h1>Crafting Comics for Literally Everyone</h1>
+  <h1>Programming Is for The Curious</h1>
 </div>
 
 <footer class="clearfix bottom title-footer" style="margin-top: 3em;">
